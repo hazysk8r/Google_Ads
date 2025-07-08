@@ -5,7 +5,7 @@ Google Ads는 체계적인 계층 구조와 캠페인 구성 요소를 통해 �
 
 Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Account, Campaign, Ad Group
 
-### 🏢 1. Manager Account (관리자 계정)
+### 🏢 1. Manager Account 
 
 #### 💡 개념
 - 여러 Google Ads 계정을 한 곳에서 통합 관리할 수 있는 최상위 계층
@@ -25,7 +25,7 @@ Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Accoun
 └── 자사 계정
 ```
 
-### 🏪 2. Account (계정)
+### 🏪 2. Account 
 
 #### 💡 개념
 - 개별 비즈니스나 브랜드를 위한 Google Ads 계정
@@ -42,7 +42,7 @@ Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Accoun
 - 사용자 접근 권한
 - 공유 라이브러리 (키워드, 오디언스 등)
 
-### 🎯 3. Campaign (캠페인)
+### 🎯 3. Campaign 
 
 #### 💡 개념
 - 특정 마케팅 목표를 달성하기 위한 광고 그룹의 집합
@@ -62,7 +62,7 @@ Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Accoun
 - **App campaigns**: 앱 설치/참여 광고
 - **Performance Max**: 성과 최대화 캠페인
 
-### 📁 4. Ad Group (광고 그룹)
+### 📁 4. Ad Group 
 
 #### 💡 개념
 - 관련성 높은 키워드와 광고들의 모음
@@ -84,18 +84,18 @@ Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Accoun
 
 캠페인의 세 가지 구성 요소는 타겟팅, 광고 형식, 입찰 전략입니다.
 
-### 🎯 1. Targeting (타겟팅)
+### 🎯 1. Targeting 
 
 #### 💡 개념
 광고를 보여줄 대상과 시점을 정의하는 설정.  
 
-##### **🎯 Audience Solutions (오디언스 솔루션)**
+##### **🎯 Audience Solutions**
 소비자와 더 나은 연결을 돕는 도구들
 - 고객의 행동, 관심사, 구매 의도 기반 타겟팅
 - 브랜드와 의미 있는 관계 구축
 - 개인화된 광고 경험 제공
 
-##### **🔍 Keywords (키워드)**
+##### **🔍 Keywords**
 Google이 소비자 검색어와 광고를 매칭하는 단어/구문
 - 사용자 검색 의도와 직접적 연결
 - 관련성 높은 트래픽 확보
@@ -103,13 +103,13 @@ Google이 소비자 검색어와 광고를 매칭하는 단어/구문
 
 #### 🚀 키워드 없이 도달 범위를 늘리는 두 가지 캠페인
 
-##### **🔮 Dynamic Search Ads (DSA, 동적 검색 광고)**
+##### **🔮 Dynamic Search Ads (DSA)**
 - Google AI가 웹사이트 콘텐츠를 분석하여 자동으로 광고 생성
 - 키워드 설정 없이도 관련 검색어에 광고 노출
 - 웹사이트의 모든 페이지를 광고 기회로 활용
 - 놓치기 쉬운 검색어까지 자동 포착
 
-##### **⚡ Performance Max (성과 최대화)**
+##### **⚡ Performance Max**
 - Google의 모든 광고 채널에서 자동 운영
 - AI가 최적의 오디언스와 광고 배치 자동 선택
 - Search, Display, YouTube, Gmail, Maps 등 통합 활용
@@ -144,7 +144,7 @@ Google이 소비자 검색어와 광고를 매칭하는 단어/구문
 - **리마케팅**: 웹사이트 방문자 재타겟팅
 - **유사 오디언스**: 기존 고객과 유사한 사용자
 
-### 📝 2. Ad Formats (광고 형식)
+### 📝 2. Ad Formats 
 
 #### 💡 개념
 사용자에게 보여지는 광고의 형태와 구성
@@ -179,7 +179,7 @@ Google이 소비자 검색어와 광고를 매칭하는 단어/구문
 - 범퍼 광고 (6초)
 - Discovery Ads(Google의 피드 기반 플랫폼에서 자연스럽게 노출되는 네이티브 광고)
 
-### 💰 3. Bid Strategies (입찰 전략)
+### 💰 3. Bid Strategies 
 
 #### 💡 개념
 광고 경매에서 얼마를 입찰할지 결정하는 방법
