@@ -2,7 +2,7 @@
 
 Google AI는 Search ads의 성능을 크게 향상시키는 세 가지 핵심 기능인 Broad match, Smart bidding, Responsive search ads를 제공함
 
-## 🎯 1. Broad Match (브로드 매치)
+## 🎯 1. Broad Match 
 
 ### 💡 개념
 Broad match는 Google AI를 활용하여 키워드와 관련된 다양한 검색어에 광고를 노출시키는 키워드 매칭 유형
@@ -28,7 +28,7 @@ Broad match는 Google AI를 활용하여 키워드와 관련된 다양한 검색
 - "jogging shoes"
 ```
 
-## 🤖 2. Smart Bidding (스마트 비딩)
+## 🤖 2. Smart Bidding 
 
 ### 💡 개념
 Smart bidding은 머신러닝을 활용하여 각 광고 경매마다 최적의 입찰가를 자동으로 설정하는 자동 입찰 전략
@@ -62,7 +62,7 @@ Smart bidding은 머신러닝을 활용하여 각 광고 경매마다 최적의 
 - 24/7 자동 관리
 - 성과 개선 효과
 
-## 📝 3. Responsive Search Ads (반응형 검색 광고)
+## 📝 3. Responsive Search Ads 
 
 ### 💡 개념
 Responsive search ads는 여러 개의 헤드라인과 설명을 제공하면 Google AI가 최적의 조합을 자동으로 선택하여 표시하는 광고 형식
