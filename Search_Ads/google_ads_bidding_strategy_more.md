@@ -162,6 +162,7 @@ Target Impression Share은 Google 검색 결과 페이지의 특정 위치에 �
 ### 🔧 Target Impression Share 입찰 전략 운영 팁
 
 #### 📈 입찰 전략 보고서 활용
+
 **📊 성과 모니터링**:
 - 이 보고서를 통해 **주요 지표에 대한 입찰 전략의 성과를 확인**할 수 있음. Target Impression Share을 사용하는 캠페인의 경우, 최대 CPC 한도가 너무 낮아서 캠페인이 노출점유율 목표에 도달하지 못하는지 확인할 수 있음.
 
