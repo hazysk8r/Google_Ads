@@ -32,6 +32,7 @@
 - **사용 대상**: 구매나 가입과 같은 **온라인 웹사이트 전환**
 
 ### ⚙️ 작동 방식
+<img width="1817" height="612" alt="ConversionLead" src="https://github.com/user-attachments/assets/ee073079-1ab5-4ae7-9cd5-97d0d9d703ce" />
 
 1. **Google에 로그인한 사용자가 광고를 보거나 클릭하고 사이트에서 전환**
 2. **전환 추적 태그를 통해 자사 고객 데이터 캡처**
@@ -79,6 +80,7 @@
 - **사용 대상**: CRM의 자격을 갖춘 리드나 전환된 리드와 같은 **오프라인 전환**
 
 ### ⚙️ 작동 방식
+<img width="1817" height="612" alt="ConversionLead" src="https://github.com/user-attachments/assets/30b62e9a-94d8-46f3-8827-67f2ae207623" />
 
 1. **사용자가 광고를 클릭하고 웹사이트로 이동**
 2. **사용자가 사이트를 탐색하고 제품이나 서비스에 대해 읽으며 자사 데이터 생성**
