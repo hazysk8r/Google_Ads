@@ -148,5 +148,7 @@
 
 #### 💰 ROI 강조
 **CMO와 CFO는 MMM을 활용하여 도전적인 경제 시기에 ROI를 최대화할 기회를 식별**할 수 있음. 또한 **수익을 최대화하기 위해 다음 예산를 어디에 투자할지와 같은 한계 ROI를 이해하는 데 도움**이 될 수 있음
+<img width="993" height="809" alt="Incremantility" src="https://github.com/user-attachments/assets/47a477cd-d4db-4eeb-8d2f-29f8ebce5326" />
+
 
 ---
