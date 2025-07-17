@@ -1,7 +1,7 @@
 # 🖼️ Google Display Ads의 디스플레이 광고
 
 ## 개요
-- Google Display 광고의 디스플레이 광고 가치를 설명
+- Google Display Ads의 디스플레이 광고 가치를 설명
 
 ## 💎 Google Display 광고의 가치
 
