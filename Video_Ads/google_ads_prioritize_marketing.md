@@ -51,5 +51,5 @@
 | **audience 솔루션** | • Demographics and detailed demographics<br>• Affinity audiences<br>• Custom audiences<br>• Infinite taxonomy audiences | • Custom audiences<br>• In-market audiences<br>• Life events<br>• Infinite taxonomy audiences | • Remarketing<br>• Custom audiences<br>• Customer Match<br>• Infinite taxonomy audiences |
 | **광고 형식** | • Skippable in-stream<br>• In-feed video<br>• Bumpers<br>• Non-skippable in-stream<br>• Masthead | • Skippable in-stream<br>• In-feed video | • Skippable in-stream<br>• In-feed video |
 | **구매 방법** | • Auction<br>• Reservation | • Auction | • Auction |
-| **입찰 솔루션** | • **CPM** (cost per thousand impressions) | • **CPV** (cost per view) | • **Conversions CPA** (cost per action) |
-| **측정 솔루션** | • Completed views<br>• **TrueView Reach and Frequency**<br>• **Viewability with Active View**<br>• **Brand Lift – Ad Recall and Awareness** | • Views<br>• Cost per view<br>• **Brand Lift – Consideration and Purchase Intent** | • **Online conversions – clicks, Engaged-view conversions impressions**<br>• **Offline conversions** |
+| **입찰 솔루션** | • CPM (cost per thousand impressions) | • CPV (cost per view) | • Conversions CPA (cost per action) |
+| **측정 솔루션** | • Completed views<br>• TrueView Reach and Frequency<br>• Viewability with Active View<br>• Brand Lift – Ad Recall and Awareness | • Views<br>• Cost per view<br>• Brand Lift – Consideration and Purchase Intent | • Online conversions – clicks, Engaged-view conversions impressions**<br>• Offline conversions |
