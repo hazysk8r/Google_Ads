@@ -14,25 +14,25 @@
 ### 🤖 Smart Bidding 컨버전 및 가치 기반 입찰 전략
 
 #### 📈 거래 또는 리드 증가
-**🛠️ 입찰 전략**: 전환 최대화 (Maximize Conversions)
+**🛠️ 입찰 전략**: Maximize Conversions
 **📝 사용 시점**: 고정 예산 내에서 가능한 한 많은 전환을 얻기 위해
 
 #### 💰 매출, 수익 또는 품질 리드 증가
-**🛠️ 입찰 전략**: 목표 CPA (Target Cost-per-Action)
+**🛠️ 입찰 전략**: Target Cost-per-Action
 **📝 사용 시점**: 목표 CPA 목표 내에서 가능한 한 많은 전환을 얻기 위해
 
 #### 🌐 웹사이트 방문자 증가
-**🛠️ 입찰 전략**: 전환 가치 최대화 (Maximize Conversion Value)
+**🛠️ 입찰 전략**: Maximize Conversion Value
 **📝 사용 시점**: 고정 예산 내에서 가능한 한 많은 전환 가치를 얻기 위해
 
 #### 📊 인지도 증가 또는 안정화
-**🛠️ 입찰 전략**: 목표 ROAS (Target Return on Ad Spend)
+**🛠️ 입찰 전략**: Target Return on Ad Spend
 **📝 사용 시점**: 목표 광고 지출 수익률 목표 내에서 가능한 한 많은 전환 가치를 얻기 위해
 
 ### 🎯 Awareness-based 입찰 전략
 
 #### 🖱️ 클릭/트래픽 증가
-**🛠️ 입찰 전략**: 클릭수 최대화 (Maximize Clicks)
+**🛠️ 입찰 전략**: Maximize Clicks
 **📝 사용 시점**: 예산 내에서 가장 많은 클릭을 얻기 위해
 
 #### 👁️ 인지도/가시성 증가
