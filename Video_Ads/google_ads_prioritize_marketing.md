@@ -1,22 +1,22 @@
-# 🎯 YouTube 마케팅 목표 우선순위 설정
+# YouTube 마케팅 목표 우선순위 설정
 
 ## 개요
 - **인지도, 고려, 행동**이라는 3단계 소비자 여정에 맞춘 마케팅 목표 설정과 캠페인 전략 수립 방법을 설명
 
-## 🛤️ 마케팅 목표와 소비자 여정
+## 마케팅 목표와 소비자 여정
 
 - 마케팅 목표는 소비자 여정의 **3가지 단계**에 맞춰 정렬됨:
 
-### 📢 Awareness 
+### Awareness 
 - 잠재 고객에게 도달하고 브랜드를 최상위에 유지하여 **인지도와 리콜 구축**
 
-### 🤔 Consideration
+### Consideration
 - 잠재 고객이 메시지에 가장 수용적일 때인 **의견 형성 순간에 영향**을 주어 고려와 관심 증대
 
-### 🎬 Action
+### Action
 - 의사결정 순간에 잠재 고객 사이에서 **행동을 유도**하여 측정 가능한 의미 있는 행동을 더 쉽게 취할 수 있도록 함
 
-## 📊 목표에 맞춘 비디오 캠페인 전략 정렬
+## 목표에 맞춘 비디오 캠페인 전략 정렬
 
 ### 1️⃣ 마케팅 목표
 - **시간 제한이 있는 마케팅 목표**는 종종 특정 제품이나 사업 부문에 특화되며 소비자의 구매 경로에 영향을 주도록 설계됨:
@@ -42,11 +42,11 @@
     - **조회수**
     - **웹사이트 방문**
 
-## 🎥 YouTube와 Google 비디오 솔루션의 마케팅 목표 정렬
+## YouTube와 Google 비디오 솔루션의 마케팅 목표 정렬
 
 - YouTube와 Google 비디오 솔루션은 캠페인 생성 프로세스를 **마케팅 목표에 자동으로 정렬**하여  단순화함
 
-| 구분 | 📢 Awareness | 🤔 Consideration | 🎬 Action |
+| 구분 | Awareness | Consideration | Action |
 |------|-------------|-----------------|-----------|
 | **audience 솔루션** | • Demographics and detailed demographics<br>• Affinity audiences<br>• Custom audiences<br>• Infinite taxonomy audiences | • Custom audiences<br>• In-market audiences<br>• Life events<br>• Infinite taxonomy audiences | • Remarketing<br>• Custom audiences<br>• Customer Match<br>• Infinite taxonomy audiences |
 | **광고 형식** | • Skippable in-stream<br>• In-feed video<br>• Bumpers<br>• Non-skippable in-stream<br>• Masthead | • Skippable in-stream<br>• In-feed video | • Skippable in-stream<br>• In-feed video |
