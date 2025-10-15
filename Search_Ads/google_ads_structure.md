@@ -3,7 +3,7 @@ Google Ads는 체계적인 계층 구조와 캠페인 구성 요소를 통해 �
 
 ## Google Ads의 4단계 조직 구조
 
-Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Account, Campaign, Ad Group
+- Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Account, Campaign, Ad Group
 
 ### 1. Manager Account 
 
@@ -82,12 +82,12 @@ Google Ads에는 최대 4개의 조직 계층이 존재: Manager Account, Accoun
 
 ## 캠페인의 3가지 핵심 구성 요소
 
-캠페인의 세 가지 구성 요소는 타겟팅, 광고 형식, 입찰 전략입니다.
+- 캠페인의 세 가지 구성 요소는 타겟팅, 광고 형식, 입찰 전략입니다.
 
 ### 1. Targeting 
 
 #### 개념
-광고를 보여줄 대상과 시점을 정의하는 설정.  
+- 광고를 보여줄 대상과 시점을 정의하는 설정.  
 
 ##### **Audience Solutions**
 소비자와 더 나은 연결을 돕는 도구들
@@ -147,7 +147,7 @@ Google이 소비자 검색어와 광고를 매칭하는 단어/구문
 ### 2. Ad Formats 
 
 #### 개념
-사용자에게 보여지는 광고의 형태와 구성
+- 사용자에게 보여지는 광고의 형태와 구성
 
 #### 검색 광고 형식
 ##### **텍스트 광고**
@@ -182,7 +182,7 @@ Google이 소비자 검색어와 광고를 매칭하는 단어/구문
 ### 3. Bid Strategies 
 
 #### 개념
-광고 경매에서 얼마를 입찰할지 결정하는 방법
+- 광고 경매에서 얼마를 입찰할지 결정하는 방법
 
 #### 목표 기반 분류
 
