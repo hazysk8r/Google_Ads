@@ -71,7 +71,7 @@
 - **모든 표준 Google Ads 보고서를 받고 일일 micromanagement 대신 광범위하고 전략적인 관리를 가능하게 하는 insight를 기반으로 한 새로운 보충 보고서를 받음**.
 
 ####  확장성
-- **Smart Display 캠페인은 AdMob과 YouTube와 같은 Google 소유 및 운영 속성을 포함하여 Google Display 광고에서 사용할 수 있는 300만 개의 웹사이트와 앱에서 실행**됨
+- **Smart Display 캠페인은 AdMob과 YouTube와 같은 Google 소유 및 운영 속성을 포함하여 Google Display 광고에서 사용할 수 있는 300만 개의 웹사이트와 앱에서 실행**
 
 ###  Smart Display 캠페인의 구성 요소
 
@@ -84,7 +84,7 @@
 ####  자동 크리에이티브
 - **헤드라인, 설명, 로고, 이미지와 같이 제공하는 구성 요소에서 광고가 자동으로 생성**됨. **Google Display 광고의 거의 모든 광고 슬롯에 반응형으로 맞춤**
 
-- **참고**: Smart Display 캠페인은 **데이터 피드를 사용하여 피드의 항목을 기반으로 동적 광고를 렌더링**할 수도 있음
+- **참고**: Smart Display 캠페인은 **데이터 피드를 사용하여 피드의 항목을 기반으로 동적 광고를 렌더링**
 
 ###  Smart Display 캠페인을 실행해야 하는 대상
 
