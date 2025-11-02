@@ -78,16 +78,16 @@
 
 ### 특정 이정표 공통점
 - **Audience가 주택 소유나 교육 같은 특정 이정표를 공통으로 가지고 있는가?**
-    - ✅ **Demographics 또는 Detailed Demographics 선택**
+    - **Demographics 또는 Detailed Demographics 선택**
 
-### 💭 Audience 관심사 인사이트
+### Audience 관심사 인사이트
 - **Audience의 관심사에 대한 인사이트가 있는가?**
     - **Affinity Audiences 또는 Infinite Taxonomy Audiences 선택**
     - **InsightsFinder 또는 Find My Audience** 사용하여 카테고리에 가장 적합한 Audience 식별
 
 ### 틈새 그룹
 - **Audience가 틈새 사람들 그룹인가?**
-    - ✅ **Custom Affinity Audiences 선택**하여 키워드, URL, 앱으로 자체 Audience 생성
+    - **Custom Affinity Audiences 선택**하여 키워드, URL, 앱으로 자체 Audience 생성
 
 ## 도구 팁: Insights Finder 또는 Find My Audience 사용
 
