@@ -27,20 +27,20 @@
 
 ## Reach Planner 사용 시기
 
-### 1️⃣ Strategic Planning
+### Strategic Planning
 - 캠페인 계획의 **첫 번째 단계**로 원하는 시청자에 대한 인사이트 수집
 - **Google Trends나 Insights Finder** 같은 도구 사용
 - YouTube의 비디오나 TV 또는 기타 채널 같은 **채널 계획 논의**에 적합한 단계
 
-### 2️⃣ Media Planning
+### Media Planning
 - **Reach Planner 등장 단계**
 - **"원하는 시청자에 대한 규모, 도달 범위, 빈도는 얼마인가?"** 등과 같은 질문에 답하기 위해 Reach Planner 사용
 
-### 3️⃣ Campaign Buying
+### Campaign Buying
 - Google Ads에서 **캠페인 설정 및 보고 시작**
 - 성공과 원하는 결과를 위해 캠페인이 설정되도록 **타겟팅, 입찰, 예산**과 함께 Reach Planner 계획 참조
 
-### 4️⃣ Campaign Measurement
+### Campaign Measurement
 - Google Ads에서 **도달 효율성 및 빈도 지표 측정**
 - 캠페인 하위 보고에서 **도달 지표 추가** 가능
 - Measurement 메뉴에서 **Cross-Media Reach Reports**로 타겟 인구통계학적 도달 확인
